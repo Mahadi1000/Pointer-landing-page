@@ -22,7 +22,7 @@ export default function LandingPage() {
       <FloatingElements />
 
       <div className="relative z-10">
-        <main className="max-w-[1320px] mx-auto relative">
+        <main className="max-w-[1320px] 2xl:max-w-[1440px] mx-auto relative">
           <EnhancedHeroSection />
           {/* Dashboard Preview Wrapper */}
           <div className="absolute bottom-[-150px] md:bottom-[-400px] left-1/2 transform -translate-x-1/2 z-30">
